@@ -1,0 +1,76 @@
+{
+  "common": {
+    "black": "#000",
+    "white": "#fff"
+  },
+  "primary": {
+    "main": "#1976D2"
+  },
+  "secondary": {
+    "main": "#B9B9B7"
+  },
+  "warning": {
+    "main": "#ff9800",
+    "light": "#ffb74d",
+    "dark": "#f57c00"
+  },
+  "success": {
+    "main": "#4caf50",
+    "light": "#81c784",
+    "dark": "#388e3c"
+  },
+  "info": {
+    "main": "#2196f3",
+    "light": "#64b5f6",
+    "dark": "#1976d2"
+  },
+  "error": {
+    "main": "#f44336",
+    "light": "#e57373",
+    "dark": "#d32f2f"
+  },
+  "text": {
+    "common": "#8898a9",
+    "primary": "#000",
+    "secondary": "#1c1c1c",
+    "light": "#ffffff",
+    "danger": "#ff0000"
+  },
+  "avatar": {
+    "background": "#B2E6FB"
+  },
+  "groups": {
+    "default": "#1976d2"
+  },
+  "buttons": {
+    "default": {
+      "light": "#1976d2",
+      "hover": "#0d47a0"
+    },
+    "save": {
+      "light": "#43a047",
+      "hover": "#43a005"
+    },
+    "delete": {
+      "light": "#f44336",
+      "hover": "#d2302f"
+    },
+    "download": {
+      "light": "#607d8b",
+      "hover": "#455d69"
+    },
+    "cancel": {
+      "light": "#dfe6e9",
+      "hover": "#b2bec3"
+    }
+  },
+  "badge": {
+    "default": "#2196f3",
+    "done": "#43a047",
+    "inAnalysis": "#ffdd59",
+    "canceled": "#616161",
+    "pending": "#f44336",
+    "progress": "#8d6e63",
+    "inconsistency": "#f57f17"
+  }
+}

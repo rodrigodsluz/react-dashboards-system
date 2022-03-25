@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('./Fonts/sf-pro-display-regular.woff') format('woff');
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: 5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #00e1ff;
+  border-radius: 5px;
+}
+
+body {
+  max-width: 2600px;
+
+  list-style-type: none;
+}

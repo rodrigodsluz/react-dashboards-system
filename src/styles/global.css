@@ -1,0 +1,23 @@
+.column-display {
+    display:flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.container {
+    margin: 0 auto;
+    width: 400px;
+    padding: 10px;
+    border: 1px solid #7159c1;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.input-margin {
+    margin: 10px 0;
+}
+
+.button-margin {
+    margin-top: 15px; 
+}
+

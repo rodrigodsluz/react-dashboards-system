@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders badge 1`] = `
+<span
+  style={
+    Object {
+      "backgroundColor": "#ff0000",
+      "borderRadius": "30px",
+      "color": "#FFFFFF",
+      "display": "inline-block",
+      "fontSize": undefined,
+      "fontWeight": 600,
+      "padding": "3px 15px 3px 15px",
+    }
+  }
+>
+  test
+</span>
+`;

@@ -1,0 +1,27 @@
+const colors = {
+  primary: '#117EFF',
+  textPrimary: '#fff',
+  textSecondary: '#3E4157',
+  degradeColor1: '#00E1FF',
+  degradeColor2: '#117EFF',
+  leftColumn: '#fff',
+  title: '#7C7373',
+  details: '#1A1731',
+  sidebar: '#fff',
+  background: '#FAFAFA',
+  cardSucessDegrade1: '#00BF8F',
+  cardSucessDegrade2: '#001510',
+  cardRunningDegrade1: '#4B79A1',
+  cardRunningDegrade2: '#283E51',
+  cardFinishedDegrade1: '#C02425',
+  cardFinishedDegrade2: '#F0CB35',
+  bg1: '#E5E5E5',
+  bg2: '#fff',
+  sucess: '#34aB53',
+  disabled: '#ccc',
+  sidebarBg: '#413b75',
+  dark: '#000',
+  error: '#f27457',
+};
+
+export default colors;

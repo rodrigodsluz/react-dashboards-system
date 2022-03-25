@@ -1,0 +1,23 @@
+label#thumbnail {
+  margin-bottom: 20px;
+  border: 4px dashed #ddd;
+  background-size: cover;
+  cursor: pointer;
+  height: 400px;
+  width: 400px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+  border-radius: 8px;
+}
+
+.csv-input {
+  display: block;
+  opacity: 0;
+  height: 200px;
+  cursor: pointer;
+  z-index: 2000;
+}
